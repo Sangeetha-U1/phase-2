@@ -152,7 +152,10 @@ git push -u origin main
 Add:
 
 * Desktop View Screenshot
+* <img width="1366" height="768" alt="desktop-view" src="https://github.com/user-attachments/assets/06897a56-c935-4f9c-b785-97b05f3bfebe" />
+
 * Mobile View Screenshot
+<img width="1366" height="768" alt="mobile-view" src="https://github.com/user-attachments/assets/ff993f60-96c2-43ef-a081-6d7352904054" />
 
 Inside the `screenshots` folder.
 
